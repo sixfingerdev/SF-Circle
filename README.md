@@ -1,6 +1,6 @@
 # SF-Circle
 Advanced "Draw a Perfect Circle" App. Leaderboard feature available
-# Flask Leaderboard App | Lider Tablo Uygulaması
+# Flask Circle Drawing App | Daire Çizme Uygulaması
 
 A simple **Flask leaderboard app** that tracks scores for three categories: `circle`, `square`, and `triangle`.  
 Üç kategori için skorları saklayan basit bir **Flask lider tablo uygulaması**: `circle`, `square`, `triangle`.
